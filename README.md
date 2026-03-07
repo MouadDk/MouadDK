@@ -1,4 +1,6 @@
 # 💫 About Me:
+https://portfolio-a9ji.vercel.app/#projects
+
 Hi! I’m Mouad, a developer passionate about building clean, efficient, and user-friendly applications. I love working with modern web technologies and exploring new tools that help me improve as a programmer.<br><br>🚀 What I Do<br><br>Full-stack web development (frontend & backend)<br><br>Building practical projects that solve real problems<br><br>Learning and applying best practices in clean code and architecture<br><br>🛠️ Tech I Work With<br><br>Frontend: HTML, CSS3, JavaScript, TypeScript, React, Vite<br><br>Backend: Node.js, PHP<br><br>Tools: Git, GitHub, VS Code<br><br>Other: WordPress, SEO basics<br><br>🎯 Current Goals<br><br>Improving my full-stack skills<br><br>Working on personal and collaborative projects<br><br>Growing my GitHub with quality code and real-world solutions<br><br>📫 Contact<br><br>Feel free to connect or check out my projects — I’m always open to learning, collaborating, and building cool things!
 
 
